@@ -20,7 +20,7 @@ function Tabs(props) {
                     })
                 }
             </ul>
-            <p>{ focusTab || "This is the content for Tab 1"}</p>
+            <p>{ focusTab || "This is the content for Tab 1."}</p>
 
         </div>
     )
